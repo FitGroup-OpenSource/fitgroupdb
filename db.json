@@ -1,0 +1,155 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Sprawler",
+      "difficulty_exercises_id": 1,
+      "url": "https://www.youtube.com/embed/AsxalxAnFPM"
+    },
+    {
+      "id": 2,
+      "name": "Quick Switch Lunge",
+      "difficulty_exercises_id": 2,
+      "url": "https://www.youtube.com/embed/A5ysECwqGuY"
+    },
+    {
+      "id": 3,
+      "name": "Tempo Push Up",
+      "difficulty_exercises_id": 1,
+      "url": "https://www.youtube.com/embed/FocVGc0vqqk"
+    },
+    {
+      "id": 4,
+      "name": "Plank Dumbbell Drag",
+      "difficulty_exercises_id": 3,
+      "url": "https://www.youtube.com/embed/BrD1MzJxY6A"
+    },
+    {
+      "id": 5,
+      "name": "Beast Hold",
+      "difficulty_exercises_id": 2,
+      "url": "https://www.youtube.com/embed/QOnkumnFhds"
+    },
+    {
+      "id": 6,
+      "name": "Speed Skaters",
+      "difficulty_exercises_id": 2,
+      "url": "https://www.youtube.com/embed/cwaBAxnPeCs"
+    },
+    {
+      "id": 7,
+      "name": "Side Plank Thread",
+      "difficulty_exercises_id": 3,
+      "url": "https://www.youtube.com/embed/OSRZqcHXKiY"
+    },
+    {
+      "id": 8,
+      "name": "Dynamic Dumbbell Swing",
+      "difficulty_exercises_id": 3,
+      "url": "https://www.youtube.com/embed/pGD_5xfpzXA"
+    },
+    {
+      "id": 9,
+      "name": "Dumbbell RDL",
+      "difficulty_exercises_id": 3,
+      "url": "https://www.youtube.com/embed/7AaaYhMqTws"
+    },
+    {
+      "id": 10,
+      "name": "Contralateral Deadbug",
+      "difficulty_exercises_id": 1,
+      "url": "https://www.youtube.com/embed/AWvPuAzReXI"
+    },
+    {
+      "id": 11,
+      "name": "Kettlebell Swing",
+      "difficulty_exercises_id": 3,
+      "url": "https://www.youtube.com/embed/JQFFptgGLcI"
+    },
+    {
+      "id": 12,
+      "name": "Dumbbell Single Arm Snatch",
+      "difficulty_exercises_id": 2,
+      "url": "https://www.youtube.com/embed/_65TgEJbmuM"
+    },
+    {
+      "id": 13,
+      "name": "Dumbbell Hammer Curl",
+      "difficulty_exercises_id": 3,
+      "url": "https://www.youtube.com/embed/EWWKFb0q0Uc"
+    },
+    {
+      "id": 14,
+      "name": "Dumbbell Pull",
+      "difficulty_exercises_id": 3,
+      "url": "https://www.youtube.com/embed/YDP1NCty0Bo"
+    },
+    {
+      "id": 15,
+      "name": "Dumbbell Leg Abductions",
+      "difficulty_exercises_id": 1,
+      "url": "https://www.youtube.com/embed/OMIDZhb8ALc"
+    },
+    {
+      "id": 16,
+      "name": "V Up",
+      "difficulty_exercises_id": 1,
+      "url": "https://www.youtube.com/embed/uLXba3wVjGI"
+    },
+    {
+      "id": 17,
+      "name": "Dumbbell Overhead Extensions",
+      "difficulty_exercises_id": 2,
+      "url": "https://www.youtube.com/embed/-X5il2vPwqU"
+    },
+    {
+      "id": 18,
+      "name": "Side Plank Dip",
+      "difficulty_exercises_id": 3,
+      "url": "https://www.youtube.com/embed/ibyUMvywMTc"
+    },
+    {
+      "id": 19,
+      "name": "Reverse Mountain Climbers",
+      "difficulty_exercises_id": 2,
+      "url": "https://www.youtube.com/embed/SyR3N2qGaBc"
+    },
+    {
+      "id": 20,
+      "name": "Step Up",
+      "difficulty_exercises_id": 1,
+      "url": "https://www.youtube.com/embed/rsybkAnOga8"
+    },
+    {
+      "id": 21,
+      "name": "Standing Kickback",
+      "difficulty_exercises_id": 1,
+      "url": "https://www.youtube.com/embed/t9LUucL2EXQ"
+    },
+    {
+      "id": 22,
+      "name": "Superman",
+      "difficulty_exercises_id": 1,
+      "url": "https://www.youtube.com/embed/-nIMNUVslRY"
+    },
+    {
+      "id": 23,
+      "name": "Flutter Kick",
+      "difficulty_exercises_id": 1,
+      "url": "https://www.youtube.com/embed/Kyd4BryPr2Q"
+    },
+    {
+      "id": 24,
+      "name": "Squat Toe Tap",
+      "difficulty_exercises_id": 2,
+      "url": "https://www.youtube.com/embed/QFQQzWOilEw"
+    },
+    {
+      "id": 25,
+      "name": "Decline Push Up",
+      "difficulty_exercises_id": 1,
+      "url": "https://www.youtube.com/embed/WjR6h5g55ug"
+    }
+
+  ]
+}
