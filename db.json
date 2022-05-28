@@ -1,5 +1,24 @@
 {
-  "users":[],
+  "users":[
+    {
+      "city": "lima",
+      "country": "peru",
+      "email": "abc@gmail.com",
+      "firstName": "carlos",
+      "lastName": "arellano",
+      "password": "xyz",
+      "phoneNumber": "123456"
+    },
+    {
+      "city": "lima",
+      "country": "peru",
+      "email": "abc@gmail.com",
+      "firstName": "marcos",
+      "lastName": "lopez",
+      "password": "abc",
+      "phoneNumber": "230076715"
+    }
+  ],
   "exercises": [
     {
       "id": 1,
