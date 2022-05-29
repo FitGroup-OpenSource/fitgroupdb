@@ -17,6 +17,15 @@
       "lastName": "lopez",
       "password": "abc",
       "phoneNumber": "230076715"
+    },
+    {
+      "city": "lima",
+      "country": "peru",
+      "email": "nicop@gmail.com",
+      "firstName": "Nicole",
+      "lastName": "Price",
+      "password": "18k02",
+      "phoneNumber": "993704654"
     }
   ],
   "exercises": [
