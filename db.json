@@ -279,5 +279,35 @@
       "carbohydrates": 140,
       "fats": 3
     }
+  ],
+  "nutricional_plans_details": [
+    {
+      "nutricional_plans_id": 1,
+      "foods_id": 1,
+    },
+    {
+      "nutricional_plans_id": 1,
+      "foods_id": 2,
+    },
+    {
+      "nutricional_plans_id": 1,
+      "foods_id": 3,
+    },
+    {
+      "nutricional_plans_id": 1,
+      "foods_id": 4,
+    },
+    {
+      "nutricional_plans_id": 1,
+      "foods_id": 5,
+    },
+    {
+      "nutricional_plans_id": 1,
+      "foods_id": 6,
+    },
+    {
+      "nutricional_plans_id": 1,
+      "foods_id": 7,
+    }  
   ]
 }
